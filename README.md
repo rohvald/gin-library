@@ -6,5 +6,5 @@ Run:
 Application at:
 http://localhost:8080
 
-Test:
+Postman:
 - GinLibrary.postman_collection.json
