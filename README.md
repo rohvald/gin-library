@@ -1,12 +1,10 @@
-### How-to run
+### How-to
 
-Run with:
+Run:
 `docker compose up --build`.
 
 Application at:
 http://localhost:8080
 
-### How-to test
-
-Postman requests collection included:
+Test:
 - GinLibrary.postman_collection.json
