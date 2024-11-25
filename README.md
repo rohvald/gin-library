@@ -6,4 +6,4 @@ Run:
 Application at:
 http://localhost:8080
 
-Postman imports: `GinLibrary.postman_collection.json`
+Postman requests included: `GinLibrary.postman_collection.json`
